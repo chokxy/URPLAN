@@ -1,0 +1,27 @@
+{% extends "bootstrap/base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block title %}
+Login
+{% endblock %}
+
+{% block content %}
+
+<div class="container">
+    <div class="col-lg-4"></div>
+    <div class="col-lg-4">
+        <div class="row-lg-4"></div>
+        <div class="row-lg-4">
+            <form method="POST" action="/">
+                <img src="../static/UCR-icon.png" width="72" height="72">
+                <dl>
+                {{ wtf.quick_form(form)}}
+                <input class="btn btn-lg btn-primary btn-block" type="submit" value="Login">
+                </dl>
+            </form>
+        </div>
+        <div class="row-lg-4"></div>
+        </div>
+    <div class="col-lg-4"></div>
+</div>
+{% endblock %}
