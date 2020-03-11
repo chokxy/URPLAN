@@ -1,0 +1,47 @@
+[33mcommit 41ce06b2ebddda715e6f6d4e160d1acad4808175[m[33m ([m[1;36mHEAD -> [m[1;32mbackend[m[33m)[m
+Author: chokxy <xinyan12345@gmail.com>
+Date:   Wed Mar 11 01:00:31 2020 -0700
+
+    Changed index.html and .css to work with flask
+
+[33mcommit 1be7bc6c8e9a2382ed482ffbb7e0a8d94f8e5375[m[33m ([m[1;31morigin/backend[m[33m)[m
+Author: chokxy <xinyan12345@gmail.com>
+Date:   Wed Mar 11 00:57:16 2020 -0700
+
+    Added index.html and index.css files
+
+[33mcommit 8179547bfe07444798c029fb49cbdf8f858a29cb[m
+Author: chokxy <xinyan12345@gmail.com>
+Date:   Wed Mar 11 00:54:20 2020 -0700
+
+    Changed student.html and .css
+
+[33mcommit 07bf55ff376fa9ca279c219c0a4109c652989a3c[m
+Author: chokxy <xinyan12345@gmail.com>
+Date:   Mon Mar 9 12:50:51 2020 -0700
+
+    Parse and return user input
+
+[33mcommit 30fb47d217abb24c9105aa9fcbabc0d62e545f8c[m
+Author: chokxy <xinyan12345@gmail.com>
+Date:   Thu Mar 5 14:13:20 2020 -0800
+
+    Changed file name
+
+[33mcommit 64bbc0d14ea58eaf835e9a2dc700ac097a3f125a[m
+Author: chokxy <xinyan12345@gmail.com>
+Date:   Thu Mar 5 14:09:29 2020 -0800
+
+    Google Calendar API
+
+[33mcommit d018e9c5e1817b95affd931be2c5c18ce5f40697[m
+Author: chokxy <xinyan12345@gmail.com>
+Date:   Wed Mar 4 00:41:08 2020 -0800
+
+    Add homepage
+
+[33mcommit f1401750748283d4ce936ac62c312dd5c19d31cf[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mfrontend[m[33m)[m
+Author: chokxy <xinyan12345@gmail.com>
+Date:   Wed Feb 26 15:28:08 2020 -0800
+
+    Added backend flask
